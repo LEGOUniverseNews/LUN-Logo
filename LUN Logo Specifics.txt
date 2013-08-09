@@ -1,0 +1,9 @@
+Gradient Colors:
+
+High Color: rgb(244,244,245) hex #f4f4f5
+
+Low color: rgb(82,82,82) hex #525252
+
+Font:
+
+Impact
